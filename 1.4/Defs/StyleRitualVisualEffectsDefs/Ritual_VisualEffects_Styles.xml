@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RitualVisualEffectDef ParentName="RitualSmokeAbstract">
+		<defName>VIES_SophianVisuals</defName>
+		<tintColor>(120, 120, 120)</tintColor>
+		<!--<comps>
+			<li>
+				<compClass>CompRitualEffect_ConstantCenter</compClass>
+				<moteDef>AM_Skull</moteDef>
+			</li>
+		</comps>-->
+	</RitualVisualEffectDef>
+	
+	
+</Defs>
