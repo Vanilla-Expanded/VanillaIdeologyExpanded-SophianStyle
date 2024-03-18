@@ -354,7 +354,7 @@
 	<ThingStyleDef ParentName="VIES_RotateWeapons">
 		<defName>VIES_Sophian_LongBow</defName>
 		<graphicData>
-			<texPath>Things/Weapons/Sophian/Longbow</texPath>
+			<texPath>Things/Weapons/Sophian/LongBow</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
@@ -588,6 +588,8 @@
 		<graphicData>
 			<texPath>Structures/EndTableLamp/SophianEndTableLamp</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+			<drawSize>(2,2)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
 	<ThingStyleDef>
@@ -649,6 +651,7 @@
 		<defName>VIES_Sophian_Wardrobe</defName>
 		<graphicData>
 			<texPath>Structures/Wardrobe/SophianWardrobe</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
 			 <drawSize>(3.55,3.02)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
