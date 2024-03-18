@@ -61,7 +61,7 @@
 		<graphicData>
 			<texPath>Things/Mote/ImperialBanner</texPath>
 			<graphicClass>Graphic_Mote</graphicClass>
-			<shaderType>GlowAnimated</shaderType>
+			<shaderType>TransparentAnimated</shaderType>
 			<shaderParameters>
 				<_NumFrames>6</_NumFrames>
 				<_FramesPerSec>8</_FramesPerSec>
