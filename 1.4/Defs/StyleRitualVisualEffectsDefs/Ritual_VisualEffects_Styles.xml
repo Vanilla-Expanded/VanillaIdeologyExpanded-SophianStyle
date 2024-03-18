@@ -33,10 +33,10 @@
 			</li>
 			<li Class="CompProperties_RitualEffectIntervalSpawnArea">
 				<fleckDef>Leaf</fleckDef>
-				<area>(10, 10)</area>
-				<offset>(0, 0, 5)</offset>
+				<area>(20, 20)</area>
+				<offset>(0, 0, 8)</offset>
 				<spawnIntervalTicks>23</spawnIntervalTicks>
-				<spawnCount>1</spawnCount>
+				<spawnCount>5</spawnCount>
 				<velocityDir>(0, 0, -1)</velocityDir>
 				<velocity>0.9~1.6</velocity>
 				<rotation>-5~75</rotation>
