@@ -703,4 +703,35 @@
 			 <drawSize>2.46875</drawSize>
 		</graphicData>
 	</ThingStyleDef>
+	
+	<!-- QuickDraw -->
+	
+	<ThingStyleDef ParentName="VIES_RotateWeapons">
+		<defName>VIES_Gun_AutomaticPistol</defName>
+		<graphicData>
+			<texPath>Things/Weapons/Sophian/AutomaticPistol</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
+	<ThingStyleDef ParentName="VIES_RotateWeapons">
+		<defName>VIES_Gun_BullpupRifle</defName>
+		<graphicData>
+			<texPath>Things/Weapons/Sophian/BullpupRifle</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
+	<ThingStyleDef ParentName="VIES_RotateWeapons">
+		<defName>VIES_Gun_BullpupDMR</defName>
+		<graphicData>
+			<texPath>Things/Weapons/Sophian/BullpupDMR</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
+	<ThingStyleDef ParentName="VIES_RotateWeapons">
+		<defName>VIES_Gun_PDW</defName>
+		<graphicData>
+			<texPath>Things/Weapons/Sophian/PDW</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
 </Defs>
